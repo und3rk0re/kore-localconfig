@@ -1,5 +1,5 @@
 {
-    "name": "kore/localconfig",
+    "name": "k0re/localconfig",
     "type": "library",
     "description": "Simple toolset for CLI config reading",
     "license": "MIT",
