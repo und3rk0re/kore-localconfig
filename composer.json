@@ -1,0 +1,22 @@
+{
+    "name": "kore/localconfig",
+    "type": "library",
+    "description": "Simple toolset for CLI config reading",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "authors": [
+        {
+            "name": "Und3rk0re",
+            "email": "und3rk0re@gmail.com"
+        }
+    ],
+    "autoload": {
+      "psr-4": {
+        "Kore\\LocalConfig\\": "src/Kore/LocalConfig"
+      }
+    },
+    "require": {
+      "php": ">=5.3",
+      "ext-json": "*"
+    }
+}
