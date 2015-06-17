@@ -1,0 +1,13 @@
+
+tools:
+
+  php_sim:
+    enabled: true
+
+  php_code_sniffer:
+    enabled: true
+    config:
+      standard: PSR2
+    filter:
+      paths:
+        - src/
