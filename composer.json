@@ -3,7 +3,7 @@
     "type": "library",
     "description": "Simple toolset for CLI config reading",
     "license": "MIT",
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "authors": [
         {
             "name": "Und3rk0re",
