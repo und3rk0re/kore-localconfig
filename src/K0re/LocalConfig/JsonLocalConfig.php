@@ -1,7 +1,6 @@
 <?php
 
-namespace Kore\LocalConfig;
-
+namespace K0re\LocalConfig;
 
 class JsonLocalConfig implements \ArrayAccess
 {
