@@ -12,7 +12,7 @@
     ],
     "autoload": {
       "psr-4": {
-        "Kore\\LocalConfig\\": "src/Kore/LocalConfig"
+        "K0re\\LocalConfig\\": "src/K0re/LocalConfig"
       }
     },
     "require": {
